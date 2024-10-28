@@ -6,3 +6,14 @@ header{
 #logo{
     width: 100px;
 }
+
+h2{
+    color: #808080;
+}
+thead{
+    background-color: #20A9E5;
+}
+
+tbody{
+    background-color: #B1E5F2;
+}
