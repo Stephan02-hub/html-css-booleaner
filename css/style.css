@@ -17,3 +17,24 @@ thead{
 tbody{
     background-color: #B1E5F2;
 }
+
+div{
+    background-image: url("../img/monitor.jpg");
+    width: 300px;
+    height: 200px;
+}
+
+h4{
+    color: aliceblue;
+    font-size: 20px;
+}
+h5{
+    background-image: url("../img/graph.jpg");
+    width: 300px;
+    height: 200px;
+
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
